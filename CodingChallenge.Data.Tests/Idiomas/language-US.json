@@ -1,0 +1,14 @@
+{
+  "cuadrado": "Square",
+  "rectangulo": "Rectangle",
+  "triangulo": "Triangle",
+  "trianguloEquilatero": "Triangle",
+  "circulo": "Circle",
+  "trapecio": "Trapeze",
+  "reporteVacio": "Empty list of shapes!",
+  "reporteTitulo": "Shapes report",
+  "perimetro": "Perimeter",
+  "area": "Area",
+  "formas": "Shapes"
+}
+

@@ -1,0 +1,13 @@
+{
+  "cuadrado": "Cuadrado",
+  "rectangulo": "Rectangulo",
+  "triangulo": "Triangulo",
+  "trianguloEquilatero": "Triangulo",
+  "circulo": "Circulo",
+  "trapecio": "Trapecio",
+  "reporteVacio": "Lista vacia de formas!",
+  "reporteTitulo": "Reporte de Formas",
+  "perimetro": "Perimetro",
+  "area": "Area",
+  "formas": "formas"
+}

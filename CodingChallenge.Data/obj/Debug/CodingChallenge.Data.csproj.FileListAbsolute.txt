@@ -1,0 +1,14 @@
+E:\Entrevistas Examenes\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.dll.config
+E:\Entrevistas Examenes\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.dll
+E:\Entrevistas Examenes\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.pdb
+E:\Entrevistas Examenes\CodingChallenge.Data\bin\Debug\Castle.Core.dll
+E:\Entrevistas Examenes\CodingChallenge.Data\bin\Debug\Moq.dll
+E:\Entrevistas Examenes\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.dll
+E:\Entrevistas Examenes\CodingChallenge.Data\bin\Debug\Castle.Core.xml
+E:\Entrevistas Examenes\CodingChallenge.Data\bin\Debug\Moq.xml
+E:\Entrevistas Examenes\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.xml
+E:\Entrevistas Examenes\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csproj.CoreCompileInputs.cache
+E:\Entrevistas Examenes\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csproj.CopyComplete
+E:\Entrevistas Examenes\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.dll
+E:\Entrevistas Examenes\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.pdb
+E:\Entrevistas Examenes\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csprojAssemblyReference.cache
