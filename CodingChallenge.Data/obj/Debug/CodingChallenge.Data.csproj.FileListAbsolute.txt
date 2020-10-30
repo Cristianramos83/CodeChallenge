@@ -12,3 +12,16 @@ E:\Entrevistas Examenes\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.cspr
 E:\Entrevistas Examenes\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.dll
 E:\Entrevistas Examenes\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.pdb
 E:\Entrevistas Examenes\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csprojAssemblyReference.cache
+E:\CodeChallenge\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.dll.config
+E:\CodeChallenge\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.dll
+E:\CodeChallenge\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.pdb
+E:\CodeChallenge\CodingChallenge.Data\bin\Debug\Castle.Core.dll
+E:\CodeChallenge\CodingChallenge.Data\bin\Debug\Moq.dll
+E:\CodeChallenge\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.dll
+E:\CodeChallenge\CodingChallenge.Data\bin\Debug\Castle.Core.xml
+E:\CodeChallenge\CodingChallenge.Data\bin\Debug\Moq.xml
+E:\CodeChallenge\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.xml
+E:\CodeChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csproj.CoreCompileInputs.cache
+E:\CodeChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csproj.CopyComplete
+E:\CodeChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.dll
+E:\CodeChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.pdb

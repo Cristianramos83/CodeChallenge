@@ -8,3 +8,12 @@ E:\Entrevistas Examenes\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInpu
 E:\Entrevistas Examenes\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
 E:\Entrevistas Examenes\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 E:\Entrevistas Examenes\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+E:\CodeChallenge\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\CodeChallenge\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\CodeChallenge\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\CodeChallenge\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+E:\CodeChallenge\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+E:\CodeChallenge\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\CodeChallenge\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+E:\CodeChallenge\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\CodeChallenge\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

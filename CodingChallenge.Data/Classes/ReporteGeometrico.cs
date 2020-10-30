@@ -18,12 +18,12 @@ namespace CodingChallenge.Data.Classes
         public string _perimetro { get; }
         public string _area { get; }
         public string _formas { get; }
-        public List<FormaGeometricaRefactor> ListFormas { get; set; }
+        public List<FormaGeometrica> ListFormas { get; set; }
 
 
         public ReporteGeometrico()
         {
-            ListFormas = new List<FormaGeometricaRefactor>();
+            ListFormas = new List<FormaGeometrica>();
             _perimetro = MultiLenguaje.GetValue("perimetro");
             _area      = MultiLenguaje.GetValue("area");
             _listaVacia= MultiLenguaje.GetValue("reporteVacio");
@@ -32,18 +32,18 @@ namespace CodingChallenge.Data.Classes
         }
         public ReporteGeometrico(EnumeradorIdioma enumeradorIdioma)
         {
-            ListFormas = new List<FormaGeometricaRefactor>();
+            ListFormas = new List<FormaGeometrica>();
             _perimetro = MultiLenguaje.GetValue("perimetro", enumeradorIdioma);
             _area = MultiLenguaje.GetValue("area", enumeradorIdioma);
             _listaVacia = MultiLenguaje.GetValue("reporteVacio", enumeradorIdioma);
             _titulo = MultiLenguaje.GetValue("reporteTitulo", enumeradorIdioma);
             _formas = MultiLenguaje.GetValue("formas", enumeradorIdioma);
         }
-        public void AddListFormas(FormaGeometricaRefactor formaGeometrica) {
+        public void AddListFormas(FormaGeometrica formaGeometrica) {
             ListFormas.Add(formaGeometrica);
         }
 
-        public void RemoveListFormas(FormaGeometricaRefactor formaGeometrica)
+        public void RemoveListFormas(FormaGeometrica formaGeometrica)
         {
             ListFormas.Remove(formaGeometrica);
         }        

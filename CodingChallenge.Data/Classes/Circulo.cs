@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CodingChallenge.Data.Classes
 {
-    public class Circulo : FormaGeometricaRefactor
+    public class Circulo : FormaGeometrica
     {
         public Circulo(string nombre, decimal lado, int tipo) : base(nombre, lado, tipo)
         {

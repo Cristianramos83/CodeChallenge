@@ -58,7 +58,6 @@
     <Compile Include="Classes\EnumeradorFormas.cs" />
     <Compile Include="Classes\EnumeradorIdioma.cs" />
     <Compile Include="Classes\FormaGeometrica.cs" />
-    <Compile Include="Classes\FormaGeometricaRefactor.cs" />
     <Compile Include="Classes\MultiLenguaje.cs" />
     <Compile Include="Classes\ReporteGeometrico.cs" />
     <Compile Include="Classes\TrianguloEquilatero.cs" />

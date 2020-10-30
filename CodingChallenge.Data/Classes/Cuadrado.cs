@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CodingChallenge.Data.Classes
 {
-    public class Cuadrado : FormaGeometricaRefactor
+    public class Cuadrado : FormaGeometrica
     {
         public Cuadrado(string nombre, decimal lado, int tipo) : base(nombre, lado, tipo)
         {           

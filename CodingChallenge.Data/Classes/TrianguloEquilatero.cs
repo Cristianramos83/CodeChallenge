@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CodingChallenge.Data.Classes
 {
-    public class TrianguloEquilatero : FormaGeometricaRefactor
+    public class TrianguloEquilatero : FormaGeometrica
     {
         public TrianguloEquilatero(string nombre, decimal lado, int tipo) : base(nombre, lado, tipo)
         {
